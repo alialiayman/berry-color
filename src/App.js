@@ -87,13 +87,13 @@ function App() {
           { name: "Spring green, Minty green", palette: [
             { name: "Sea green", hsl: "146,50%,36%" },
             { name: "Mint cream", hsl: "150,100%,98%" },
+            { name: "Jade", hsl: "158,100%,33%" },
             { name: "Aquamarine", hsl: "160,100%,75%" },
           
           ] },
           {
             name: "Turquoise, Aqua",
             palette: [
-              { name: "Jade", hsl: "158,100%,33%" },
               { name: "Robin's Egg Blue", hsl: "187,100%,42%" },
               { name: "Blizzard Blue", hsl: "187,71%,82%" },
               { name: "Petrol/Blue Stone", hsl: "182,100%,20%" },
@@ -108,7 +108,7 @@ function App() {
             palette: [
               { name: "Sapphire", hsl: "216,85%,39%" },
               { name: "Cobalt", hsl: "215,100%,34%" },
-              { name: "Azure, Cerulean", hsl: "199,98,48%" },
+              { name: "Azure, Cerulean", hsl: "199,98%,48%" },
               { name: "French Pass", hsl: "199,92%,85%" },
               { name: "Peacock blue/Endeavour", hsl: "206,99%,31%" },
               { name: "Cornflower blue", hsl: "219,79%,66%" },
