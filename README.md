@@ -14,6 +14,7 @@ firebase logout
 firebase login
 ✔  Success! Logged in as alialiayman@gmail.com
 firebase init hosting
+follow the prompts
 
 
 
